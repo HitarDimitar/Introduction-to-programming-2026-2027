@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main(void)
-{
+int main() {
     unsigned int a, b;
     char op;
 
