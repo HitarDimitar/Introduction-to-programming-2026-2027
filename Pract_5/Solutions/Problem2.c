@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main(void)
-{
+int main() {
     int day, month, year;
     scanf_s("%d %d %d",&day ,&month ,&year);
 
